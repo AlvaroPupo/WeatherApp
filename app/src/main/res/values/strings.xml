@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">WeatherApp</string>
+    <string name="dark_sky_string">Powered By: \nDark Sky</string>
+    <string name="weather_for_location_string">Weather For \n%1$s</string>
+    <string name="temperature">%1$d°F</string>
+    <string name="google_base_url">https://maps.googleapis.com/maps/api/geocode/</string>
+    <string name="darksky_base_url">https://api.darksky.net/forecast/</string>
+    <string name="google_api_key">AIzaSyDvPR7l2CNxVKQw8G190wYrEY4XugQ6YYY</string>
+    <string name="darksky_api_key">152794f9ad4ccfbf641d0b2b348c043c</string>
+    <string name="temperature_low_string">/60</string>
+    <string name="temperature_high_string">50%</string>
+    <string name="precip_string">Precip:</string>
+    <string name="low_temp_format">/ %1$d°F</string>
+    <string name="precip_chance_format">%1$d%%</string>
+    <string name="temp_high_string">90</string>
+    <string name="summary_string_textview">%1$s</string>
 </resources>
